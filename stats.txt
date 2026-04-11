@@ -1,1 +1,0 @@
-{'data': {'matchedUser': {'submitStats': {'acSubmissionNum': [{'difficulty': 'All', 'count': 124}, {'difficulty': 'Easy', 'count': 100}, {'difficulty': 'Medium', 'count': 24}, {'difficulty': 'Hard', 'count': 0}]}}}}
