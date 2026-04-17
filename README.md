@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Vemula-Ganesh/DSA/tree/master/1603-design-parking-system) |
+## Array
+|  |
+| ------- |
+| [1313-decompress-run-length-encoded-list](https://github.com/Vemula-Ganesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 <!---LeetCode Topics End-->
