@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [1678-goal-parser-interpretation](https://github.com/Vemula-Ganesh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 ## Graph Theory
 |  |
 | ------- |
