@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Vemula-Ganesh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Vemula-Ganesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Graph Theory
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Vemula-Ganesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Matrix
 |  |
 | ------- |
