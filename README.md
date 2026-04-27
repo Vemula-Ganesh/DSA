@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Vemula-Ganesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vemula-Ganesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [1678-goal-parser-interpretation](https://github.com/Vemula-Ganesh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
