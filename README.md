@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Vemula-Ganesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Vemula-Ganesh/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
