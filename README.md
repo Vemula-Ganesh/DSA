@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
