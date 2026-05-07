@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Vemula-Ganesh/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
