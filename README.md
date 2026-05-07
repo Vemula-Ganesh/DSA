@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -114,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
