@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Vemula-Ganesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Vemula-Ganesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Matrix
