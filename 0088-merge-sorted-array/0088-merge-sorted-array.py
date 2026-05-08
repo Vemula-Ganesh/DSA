@@ -1,0 +1,27 @@
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        """
+        Do not return anything, modify nums1 in-place instead.
+        """
+
+
+        for i in range(n):
+            nums1[m+i]=nums2[i]
+        nums1.sort()
+
+     # nums1=nums1[:m]
+        # print(nums1)
+        # nums1.extend(nums2)
+        # print(nums1)
+        # nums1=sorted(nums1)
+        # for i in range(m,len(num1)):
+        #     if num1[]
+
+        
+
+        # for i in nums2:
+        #     # if i
+        #     nums1.append(i)
+        # print(nums1)
+
+        
