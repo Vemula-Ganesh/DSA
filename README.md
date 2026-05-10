@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Vemula-Ganesh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 ## Design
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
