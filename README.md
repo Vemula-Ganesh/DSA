@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vemula-Ganesh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2315-count-asterisks](https://github.com/Vemula-Ganesh/DSA/tree/master/2315-count-asterisks) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Vemula-Ganesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Graph Theory
 |  |
