@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 ## Bit Manipulation
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vemula-Ganesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Memoization
