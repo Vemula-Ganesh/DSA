@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Vemula-Ganesh/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vemula-Ganesh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Vemula-Ganesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Graph Theory
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vemula-Ganesh/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vemula-Ganesh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
