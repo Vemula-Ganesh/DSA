@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vemula-Ganesh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vemula-Ganesh/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
