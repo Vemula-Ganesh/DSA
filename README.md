@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Vemula-Ganesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0189-rotate-array) |
+| [0343-integer-break](https://github.com/Vemula-Ganesh/DSA/tree/master/0343-integer-break) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Vemula-Ganesh/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Vemula-Ganesh/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0343-integer-break](https://github.com/Vemula-Ganesh/DSA/tree/master/0343-integer-break) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vemula-Ganesh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vemula-Ganesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Memoization
