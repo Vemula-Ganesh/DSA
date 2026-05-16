@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vemula-Ganesh/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Vemula-Ganesh/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vemula-Ganesh/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1678-goal-parser-interpretation](https://github.com/Vemula-Ganesh/DSA/tree/master/1678-goal-parser-interpretation) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vemula-Ganesh/DSA/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vemula-Ganesh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
