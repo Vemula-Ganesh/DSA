@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vemula-Ganesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Vemula-Ganesh/DSA/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/Vemula-Ganesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Vemula-Ganesh/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1920-build-array-from-permutation](https://github.com/Vemula-Ganesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
