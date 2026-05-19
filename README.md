@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vemula-Ganesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vemula-Ganesh/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Vemula-Ganesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vemula-Ganesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vemula-Ganesh/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vemula-Ganesh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vemula-Ganesh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vemula-Ganesh/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 ## Bit Manipulation
