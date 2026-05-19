@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vemula-Ganesh/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vemula-Ganesh/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Vemula-Ganesh/DSA/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Vemula-Ganesh/DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Vemula-Ganesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Vemula-Ganesh/DSA/tree/master/0611-valid-triangle-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Vemula-Ganesh/DSA/tree/master/0397-integer-replacement) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Vemula-Ganesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/Vemula-Ganesh/DSA/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/Vemula-Ganesh/DSA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Vemula-Ganesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vemula-Ganesh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vemula-Ganesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Vemula-Ganesh/DSA/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
