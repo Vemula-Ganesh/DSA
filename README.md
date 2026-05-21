@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/Vemula-Ganesh/DSA/tree/master/0765-couples-holding-hands) |
 | [1791-find-center-of-star-graph](https://github.com/Vemula-Ganesh/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Greedy
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Vemula-Ganesh/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vemula-Ganesh/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0765-couples-holding-hands](https://github.com/Vemula-Ganesh/DSA/tree/master/0765-couples-holding-hands) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/Vemula-Ganesh/DSA/tree/master/0781-rabbits-in-forest) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Vemula-Ganesh/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vemula-Ganesh/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0765-couples-holding-hands](https://github.com/Vemula-Ganesh/DSA/tree/master/0765-couples-holding-hands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vemula-Ganesh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Vemula-Ganesh/DSA/tree/master/0226-invert-binary-tree) |
+| [0765-couples-holding-hands](https://github.com/Vemula-Ganesh/DSA/tree/master/0765-couples-holding-hands) |
 ## Linked List
 |  |
 | ------- |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vemula-Ganesh/DSA/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/Vemula-Ganesh/DSA/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
