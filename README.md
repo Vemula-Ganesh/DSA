@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1328-break-a-palindrome](https://github.com/Vemula-Ganesh/DSA/tree/master/1328-break-a-palindrome) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vemula-Ganesh/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1678-goal-parser-interpretation](https://github.com/Vemula-Ganesh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Vemula-Ganesh/DSA/tree/master/0781-rabbits-in-forest) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vemula-Ganesh/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1328-break-a-palindrome](https://github.com/Vemula-Ganesh/DSA/tree/master/1328-break-a-palindrome) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 ## Bit Manipulation
