@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vemula-Ganesh/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vemula-Ganesh/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Vemula-Ganesh/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Vemula-Ganesh/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vemula-Ganesh/DSA/tree/master/0070-climbing-stairs) |
