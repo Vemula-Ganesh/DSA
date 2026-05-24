@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vemula-Ganesh/DSA/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Vemula-Ganesh/DSA/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/Vemula-Ganesh/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/Vemula-Ganesh/DSA/tree/master/1328-break-a-palindrome) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Vemula-Ganesh/DSA/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Vemula-Ganesh/DSA/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/Vemula-Ganesh/DSA/tree/master/0832-flipping-an-image) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vemula-Ganesh/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
