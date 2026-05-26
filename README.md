@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vemula-Ganesh/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vemula-Ganesh/DSA/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Vemula-Ganesh/DSA/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/Vemula-Ganesh/DSA/tree/master/0367-valid-perfect-square) |
 | [0781-rabbits-in-forest](https://github.com/Vemula-Ganesh/DSA/tree/master/0781-rabbits-in-forest) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Sorting
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/Vemula-Ganesh/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Vemula-Ganesh/DSA/tree/master/0611-valid-triangle-number) |
 ## Tree
