@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Vemula-Ganesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Vemula-Ganesh/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2315-count-asterisks](https://github.com/Vemula-Ganesh/DSA/tree/master/2315-count-asterisks) |
+| [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Vemula-Ganesh/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Graph Theory
