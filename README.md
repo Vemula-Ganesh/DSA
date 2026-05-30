@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Vemula-Ganesh/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2299-strong-password-checker-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/Vemula-Ganesh/DSA/tree/master/2315-count-asterisks) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
