@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vemula-Ganesh/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Vemula-Ganesh/DSA/tree/master/0412-fizz-buzz) |
 | [0781-rabbits-in-forest](https://github.com/Vemula-Ganesh/DSA/tree/master/0781-rabbits-in-forest) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
 | ------- |
