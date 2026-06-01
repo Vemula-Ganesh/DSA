@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Vemula-Ganesh/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/Vemula-Ganesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vemula-Ganesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Vemula-Ganesh/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vemula-Ganesh/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/Vemula-Ganesh/DSA/tree/master/1328-break-a-palindrome) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vemula-Ganesh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vemula-Ganesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 ## Bit Manipulation
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Vemula-Ganesh/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vemula-Ganesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
