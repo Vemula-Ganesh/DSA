@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Vemula-Ganesh/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/Vemula-Ganesh/DSA/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/Vemula-Ganesh/DSA/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Vemula-Ganesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
