@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vemula-Ganesh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
+| [2325-decode-the-message](https://github.com/Vemula-Ganesh/DSA/tree/master/2325-decode-the-message) |
 | [3731-find-missing-elements](https://github.com/Vemula-Ganesh/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Vemula-Ganesh/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2299-strong-password-checker-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/Vemula-Ganesh/DSA/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/Vemula-Ganesh/DSA/tree/master/2325-decode-the-message) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Vemula-Ganesh/DSA/tree/master/3838-weighted-word-mapping) |
