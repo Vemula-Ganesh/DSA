@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Vemula-Ganesh/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Vemula-Ganesh/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2418-sort-the-people](https://github.com/Vemula-Ganesh/DSA/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Vemula-Ganesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Vemula-Ganesh/DSA/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/Vemula-Ganesh/DSA/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Vemula-Ganesh/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/Vemula-Ganesh/DSA/tree/master/3866-first-unique-even-element) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/Vemula-Ganesh/DSA/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Vemula-Ganesh/DSA/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/Vemula-Ganesh/DSA/tree/master/2418-sort-the-people) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Vemula-Ganesh/DSA/tree/master/3838-weighted-word-mapping) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vemula-Ganesh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/Vemula-Ganesh/DSA/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/Vemula-Ganesh/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
