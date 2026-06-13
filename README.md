@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vemula-Ganesh/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1678-goal-parser-interpretation](https://github.com/Vemula-Ganesh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Vemula-Ganesh/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1844-replace-all-digits-with-characters](https://github.com/Vemula-Ganesh/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vemula-Ganesh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/Vemula-Ganesh/DSA/tree/master/2103-rings-and-rods) |
