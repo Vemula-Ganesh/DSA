@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Vemula-Ganesh/DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Vemula-Ganesh/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Vemula-Ganesh/DSA/tree/master/0649-dota2-senate) |
+| [0709-to-lower-case](https://github.com/Vemula-Ganesh/DSA/tree/master/0709-to-lower-case) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vemula-Ganesh/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/Vemula-Ganesh/DSA/tree/master/1328-break-a-palindrome) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vemula-Ganesh/DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
