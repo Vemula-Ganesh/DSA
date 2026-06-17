@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Vemula-Ganesh/DSA/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vemula-Ganesh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Vemula-Ganesh/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vemula-Ganesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vemula-Ganesh/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Vemula-Ganesh/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/Vemula-Ganesh/DSA/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Vemula-Ganesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vemula-Ganesh/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Vemula-Ganesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Vemula-Ganesh/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vemula-Ganesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vemula-Ganesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
