@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Vemula-Ganesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vemula-Ganesh/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/Vemula-Ganesh/DSA/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Vemula-Ganesh/DSA/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Vemula-Ganesh/DSA/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vemula-Ganesh/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/Vemula-Ganesh/DSA/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vemula-Ganesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Vemula-Ganesh/DSA/tree/master/3838-weighted-word-mapping) |
