@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vemula-Ganesh/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Vemula-Ganesh/DSA/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/Vemula-Ganesh/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/Vemula-Ganesh/DSA/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Vemula-Ganesh/DSA/tree/master/3838-weighted-word-mapping) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Vemula-Ganesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vemula-Ganesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2974-minimum-number-game](https://github.com/Vemula-Ganesh/DSA/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/Vemula-Ganesh/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Vemula-Ganesh/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Vemula-Ganesh/DSA/tree/master/3731-find-missing-elements) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Vemula-Ganesh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Vemula-Ganesh/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/Vemula-Ganesh/DSA/tree/master/3028-ant-on-the-boundary) |
 ## Trie
 |  |
 | ------- |
