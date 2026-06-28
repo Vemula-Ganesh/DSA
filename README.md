@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vemula-Ganesh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vemula-Ganesh/DSA/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Vemula-Ganesh/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Vemula-Ganesh/DSA/tree/master/0049-group-anagrams) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vemula-Ganesh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Vemula-Ganesh/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Vemula-Ganesh/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Vemula-Ganesh/DSA/tree/master/0410-split-array-largest-sum) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vemula-Ganesh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vemula-Ganesh/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
