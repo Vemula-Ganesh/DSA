@@ -403,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vemula-Ganesh/DSA/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vemula-Ganesh/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
